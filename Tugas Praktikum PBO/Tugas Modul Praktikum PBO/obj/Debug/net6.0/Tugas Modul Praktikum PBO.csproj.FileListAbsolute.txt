@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\Tugas Modul Praktikum PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\Tugas Modul Praktikum PBO.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\Tugas Modul Praktikum PBO.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\Tugas Modul Praktikum PBO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\bin\Debug\net6.0\Tugas Modul Praktikum PBO.exe
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\bin\Debug\net6.0\Tugas Modul Praktikum PBO.deps.json
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\bin\Debug\net6.0\Tugas Modul Praktikum PBO.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\bin\Debug\net6.0\Tugas Modul Praktikum PBO.dll
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\bin\Debug\net6.0\Tugas Modul Praktikum PBO.pdb
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\Tugas Modul Praktikum PBO.dll
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\refint\Tugas Modul Praktikum PBO.dll
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\Tugas Modul Praktikum PBO.pdb
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\Tugas Modul Praktikum PBO.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Tugas Modul Praktikum PBO\Tugas Modul Praktikum PBO\obj\Debug\net6.0\ref\Tugas Modul Praktikum PBO.dll
